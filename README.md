@@ -1,7 +1,7 @@
 # gdp
 Get Default Password
 
-Query https://citr.net database for vendor default passwords
+Query https://cirt.net database for vendor default passwords
 
 Get list of available vendors
 
